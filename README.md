@@ -1,4 +1,5 @@
-'''int led1 = 13;  // 첫 번째 LED 핀 번호
+```
+int led1 = 13;  // 첫 번째 LED 핀 번호
 int led2 = 11;  // 두 번째 LED 핀 번호
 
 void setup() {
@@ -17,6 +18,6 @@ void loop() {
   digitalWrite(led2, LOW);   // led2 OFF
   delay(500);                // 0.5초 대기
 }
-'''
+```
 ![아두이노](다운로드.jpg)
 
